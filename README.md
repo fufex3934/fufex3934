@@ -82,9 +82,8 @@
 > "I speak 5 languages fluently: Python, JavaScript, Java, PHP, and Human! 😄 When I'm not coding, you'll find me exploring new tech or contributing to open source."
 
 ---
-
 <div align="center">
   
-![Snake animation](https://github.com/fufex3934/fufex3934/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fufex3934/fufex3934/blob/output/snake.svg)
 
 </div>
