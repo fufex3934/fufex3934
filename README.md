@@ -1,5 +1,3 @@
-<div align="center">
-  
 # 👋 Hello World! I'm Fufa Wakgari 
 ### 💻 Full Stack Developer | 🚀 Next.js Enthusiast | 🌍 Based in Ethiopia
 
@@ -85,6 +83,6 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/fufex3934/fufex3934/blob/output/snake.svg)
+![Snake animation](https://github.com/fufex3934/fufex3934/blob/output/github-contribution-grid-snake.svg)
 
 </div>
