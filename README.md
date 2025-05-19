@@ -83,6 +83,7 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/fufex3934/fufex3934/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/fufex3934/fufex3934/blob/output/github-snake.svg)
+
 
 </div>
