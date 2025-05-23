@@ -11,7 +11,7 @@
 <h2 align="left">Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,express,cpp,java,bootstrap,npm,php,postman,python,react,redux,sass,tailwind,typescript,materialui,nextjs,mysql,mongodb,linux,ubuntu,vscode,html,css,javascript,firebase,figma" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,express,cpp,java,bootstrap,npm,php,postman,python,react,redux,tailwind,typescript,materialui,nextjs,mysql,mongodb,flask,vscode,html,css,javascript,firebase,laravel" />
   </a>
 </p>
 <hr/>
