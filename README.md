@@ -24,18 +24,13 @@
 
 ---
 
-## 📈 GitHub Analytics
 
-<div align="center">
-  
-[![Fufa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fufex3934&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)](https://github.com/fufex3934)
+<h2 align="left">GitHub Statistics</h2>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fufex3934&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)](https://github.com/fufex3934)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fufex3934&theme=radical&hide_border=true&background=0D1117&dates=FFFFFF)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fufex3934&show_icons=true&locale=en&layout=compact" alt="fufex3934" /></p>
 
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fufex3934&" alt="fufex3934" /></p>
 ---
 
 ## 🏆 Achievements
