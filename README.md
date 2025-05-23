@@ -1,5 +1,5 @@
 # 👋 Hello World! I'm Fufa Wakgari 
-### 💻 Full Stack Developer | 🚀 Next.js Enthusiast | 🌍 Based in Ethiopia
+### 💻 Full Stack Developer   🌍 Based in Ethiopia
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=fufex3934&label=PROFILE+VIEWS&color=6e40c9&style=for-the-badge)](https://github.com/fufex3934)
 [![Twitter Follow](https://img.shields.io/badge/Follow_@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
@@ -58,9 +58,4 @@
 
 ---
 
-<div align="center">
-  
-![snake gif](https://github.com/fufex3934/fufex3934/blob/output/github-snake.svg)
 
-
-</div>
