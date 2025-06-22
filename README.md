@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/ 119033939?v=4" width="150px" alt="Fufa Wakgari - Full Stack Developer">
+ <img src="https://avatars.githubusercontent.com/u/119033939?v=4" width="150px" alt="Fufa Wakgari - Full Stack Developer">
 </div>
 
 <h1 align="center">👋 Hey there! I'm Fufa Wakgari</h1>
