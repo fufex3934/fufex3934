@@ -9,8 +9,7 @@
   <a href="https://komarev.com/ghpvc/?username=fufex3934&label=PROFILE+VIEWS&color=6e40c9&style=for-the-badge" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=fufex3934&label=PROFILE+VIEWS&color=6e40c9&style=for-the-badge" alt="Profile Views">
   </a>
-  <a href="https://twitter.com/YourHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter">
+  <a href="https://twitter.com/YourHandle" target="_blank">  <img src="https://img.shields.io/badge/Follow_@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter">
   </a>
 </p>
 
@@ -66,8 +65,7 @@ I'm always open to collaborating on exciting projects or discussing new opportun
   <a href="mailto:fufawakgari174@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://twitter.com/YourHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/YourHandle" target="_blank">  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
