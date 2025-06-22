@@ -27,7 +27,7 @@ I work with a diverse set of technologies to bring ideas to life. Here are some 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,express,python,flask,java,php,laravel,cpp,mysql,mongodb,firebase,git,github,vscode,npm,postman,docker,vercel" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,nestjs,express,python,flask,java,php,laravel,cpp,mysql,mongodb,firebase,git,github,vscode,npm,postman,docker,vercel" alt="Skills" />
   </a>
 </p>
 
