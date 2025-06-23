@@ -9,7 +9,7 @@
   <a href="https://komarev.com/ghpvc/?username=fufex3934&label=PROFILE+VIEWS&color=6e40c9&style=for-the-badge" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=fufex3934&label=PROFILE+VIEWS&color=6e40c9&style=for-the-badge" alt="Profile Views">
   </a>
-  <a href="https://twitter.com/YourHandle" target="_blank">  <img src="https://img.shields.io/badge/Follow_@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter">
+  <a href="https://linkedin.com/in/fufa-wakgari-85b412228" target="_blank">  <img src="https://img.shields.io/badge/Follow_@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter">
   </a>
 </p>
 
