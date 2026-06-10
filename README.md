@@ -4,21 +4,21 @@
 
 # Fufa Wakgari
 
-### Backend Engineer | NestJS • Node.js • Scalable API Systems
+### Backend Engineer — Scalable SaaS Systems · Secure APIs · High-Performance Architectures
 
-I build secure, scalable, production-grade backend systems that support real business growth.
+I build **production-grade backend systems** designed for scale, reliability, and real-world business impact.
 
-📍 Ethiopia · Open to Remote, Contract, and Freelance Opportunities
+📍 Ethiopia · Open to Remote, Contract & Freelance Opportunities
 
 <p>
   <a href="https://linkedin.com/in/fufa-wakgari-85b412228">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fufawakgari174@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://fufawakgari.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -26,173 +26,138 @@ I build secure, scalable, production-grade backend systems that support real bus
 
 ---
 
-## Executive Profile
+## 🚀 What I Do
 
-Backend-focused full-stack developer delivering APIs and backend platforms that are secure, maintainable, and optimized for performance.
+I design and build backend systems that handle:
 
-I specialize in:
-
-- Designing clean backend architecture for fast-moving products  
-- Building authentication and authorization systems that scale  
-- Shipping reliable APIs with strong validation and error handling  
-- Supporting real-time features and high-availability backend services  
-
----
-
-## Business Value I Bring
-
-- Build backend systems that reduce time-to-market for new features  
-- Improve API reliability and response performance under load  
-- Apply security best practices across authentication and access control  
-- Structure codebases for long-term maintainability and team scalability  
-- Translate product requirements into robust backend implementation  
+* Multi-tenant SaaS architectures
+* Authentication & authorization at scale (JWT, RBAC)
+* Payment and subscription workflows
+* Real-time communication systems
+* High-performance APIs under load
 
 ---
 
-## Core Service Offerings
+## 🧩 Flagship Systems
 
-### 🔐 Authentication, Authorization & API Security
-- JWT and refresh token flows
-- RBAC and permission systems
-- Route protection, guards, middleware hardening
-- Validation-first API design
+### 🏢 SaaS Multi-Tenant Backend *(In Progress / Planned Public Release)*
 
-### ⚡ Scalable API Development
-- NestJS architecture for modular growth
-- REST API design with clear domain boundaries
-- Swagger/OpenAPI documentation
-- Standardized error handling and logging strategies
+Production-ready architecture supporting tenant isolation and scalable growth.
 
-### 🛒 E-commerce Backend Engineering
-- Product/catalog, cart, checkout, order lifecycle
-- Payment flow integration and inventory workflows
-- Transaction-safe business rules
+**Key Capabilities:**
 
-### 💬 Real-Time Backend Features
-- WebSocket architecture for chat/notifications
-- Event-driven communication patterns
-- Low-latency user interactions
-
-### 🚀 Performance & Reliability Optimization
-- Redis-based caching strategies
-- Query optimization and bottleneck analysis
-- API latency and throughput tuning
+* Multi-tenancy (tenant-aware architecture)
+* JWT authentication + refresh token flow
+* Role-based access control (RBAC)
+* Redis caching & performance optimization
+* Modular NestJS architecture
 
 ---
 
-## Technology Stack
+### 💳 Payment & Subscription Engine
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+Robust backend system for handling real-world financial workflows.
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+**Key Capabilities:**
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**DevOps & Tooling**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+* Subscription lifecycle management
+* Webhook processing (Stripe-style architecture)
+* Idempotent payment handling
+* Invoice and transaction tracking
+* Retry and failure recovery strategies
 
 ---
 
-## Selected Projects
+### ⚡ Real-Time Event System
+
+Low-latency backend for live user interactions.
+
+**Key Capabilities:**
+
+* WebSocket-based communication
+* Event-driven architecture
+* Real-time notifications and messaging
+* Scalable connection handling
+
+---
+
+## 💼 Selected Experience
 
 ### Seed E-commerce Platform *(Private Organization Project)*
-Backend Developer contribution on a production-grade e-commerce platform.
 
-**Scope of contribution:**
-- Developed modular NestJS backend services
-- Implemented authentication, authorization, and RBAC flows
-- Built APIs for products, cart, orders, and payments
-- Collaborated in a monorepo with shared packages across teams
+Backend Engineer contributing to a production-grade e-commerce system.
 
-**Tech:** NestJS · PostgreSQL · Prisma · REST API  
-🔗 [Live Demo](https://seed-finance-web.vercel.app/en)
+**Impact:**
 
----
+* Built modular backend services using NestJS
+* Implemented authentication and RBAC systems
+* Developed APIs for product, cart, and order lifecycle
+* Collaborated in a scalable monorepo architecture
 
-### NestJS E-commerce Backend
-Scalable backend platform for core commerce operations.
-
-**Highlights:**
-- Auth, product, cart, order lifecycle modules
-- Clean architecture and API documentation
-- Production-oriented error handling patterns
+**Tech:** NestJS · PostgreSQL · Prisma · REST API
+🔗 https://seed-finance-web.vercel.app/en
 
 ---
 
-### Authentication API
-Security-first authentication service for modern apps.
+## 🧠 Engineering Strengths
 
-**Highlights:**
-- JWT + refresh token implementation
-- Role-based route protection
-- Secure authorization guard flows
-
----
-
-### Real-Time Chat API
-Real-time communication backend using WebSockets.
-
-**Highlights:**
-- Instant messaging architecture
-- Real-time notifications
-- Event-driven backend handling
+* Clean, scalable backend architecture design
+* Secure authentication and access control systems
+* Performance optimization (caching, query tuning)
+* API reliability and maintainability
+* Translating product requirements into robust systems
 
 ---
 
-### Blog API
-Backend API for content publishing workflows.
+## ⚙️ Tech Stack
 
-**Highlights:**
-- CRUD for posts and comments
-- Authenticated access controls
-- Media upload support
+**Backend**
+Node.js · NestJS · Express · TypeScript
+
+**Frontend**
+React · Next.js
+
+**Databases**
+PostgreSQL · MongoDB · MySQL
+
+**DevOps & Tools**
+Docker · Git · Postman · Vercel
 
 ---
 
-## GitHub Metrics
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fufex3934&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufex3934&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fufex3934&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufex3934&layout=compact&theme=dark&hide_border=true" height="165" />
 </div>
 
 ---
 
-## Current Focus
+## 🔭 Current Focus
 
 ### Wide School Management System
-Building a comprehensive digital platform for educational institutions:
 
-- Student management lifecycle
-- Online classroom workflows
-- Fees and payment operations
-- E-learning and examination modules
-- Digital library services
+Building a full-scale digital platform for educational institutions.
+
+* Student lifecycle management
+* Online learning workflows
+* Payment and fee systems
+* Examination and grading modules
+* Digital resource management
 
 **Stack:** Laravel · Inertia.js · MySQL · Tailwind CSS
 
 ---
 
-## Let’s Work Together
+## 🤝 Let’s Work Together
 
-If you need a backend engineer to design, scale, or optimize your API architecture, I’m available for remote collaboration.
+If you need a backend engineer to **design, scale, or optimize your systems**, I’m available for collaboration.
 
-- 📧 [fufawakgari174@gmail.com](mailto:fufawakgari174@gmail.com)  
-- 💼 [linkedin.com/in/fufa-wakgari-85b412228](https://linkedin.com/in/fufa-wakgari-85b412228)  
-- 🌐 [fufawakgari.vercel.app](https://fufawakgari.vercel.app)
+* 📧 [fufawakgari174@gmail.com](mailto:fufawakgari174@gmail.com)
+* 💼 https://linkedin.com/in/fufa-wakgari-85b412228
+* 🌐 https://fufawakgari.vercel.app
 
 ---
 
-⭐ *Focused on building backend systems that are fast, secure, and built to last.*
+⭐ *Focused on building backend systems that are scalable, secure, and built for real-world impact.*
