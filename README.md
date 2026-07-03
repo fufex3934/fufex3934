@@ -83,6 +83,22 @@ Low-latency backend for live user interactions.
 
 ## 💼 Selected Experience
 
+### 🌐 7NetMarket *(E-commerce Platform)*
+
+🔗 https://7netmarket.com/
+
+Backend Engineer contributing to a live production e-commerce system.
+
+**Impact:**
+
+* Built and maintained scalable backend services
+* Developed and optimized APIs for product, cart, and order workflows
+* Implemented secure authentication and authorization flows
+* Improved system performance and reliability under real user load
+* Collaborated with cross-functional teams to deliver production features
+
+---
+
 ### Seed E-commerce Platform *(Private Organization Project)*
 
 Backend Engineer contributing to a production-grade e-commerce system.
