@@ -1,117 +1,101 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/119033939?v=4" width="140" alt="Fufa Wakgari" />
+<img src="https://avatars.githubusercontent.com/u/119033939?v=4" width="112" alt="Fufa Wakgari" />
 
-# Hi, I'm Fufa Wakgari 👋
+# Fufa Wakgari
 
-### Backend Engineer | Node.js · NestJS · TypeScript
+### Backend Engineer · Node.js / NestJS / TypeScript
 
-**Building reliable APIs, multi-tenant SaaS platforms, and payment workflows.**
+Building the APIs and services behind SaaS platforms, commerce, and payment workflows.
 
-Based in Ethiopia · Open to remote roles, contracts, and freelance projects
+**Ethiopia · Available for remote roles, contracts, and freelance work**
 
-<a href="https://linkedin.com/in/fufa-wakgari-85b412228">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="mailto:fufawakgari174@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
-</a>
-<a href="https://fufawakgari.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-View_Projects-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
-</a>
+[Portfolio](https://fufawakgari.vercel.app) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/fufa-wakgari-85b412228) &nbsp; / &nbsp; [Email](mailto:fufawakgari174@gmail.com)
+
+<br />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 </div>
 
 ---
 
-## About Me
+## Behind the APIs
 
-I'm a backend engineer working with **Node.js, NestJS, and TypeScript** to turn product requirements into maintainable services and dependable APIs.
+I'm a backend engineer focused on turning business requirements into reliable services and maintainable code. My main tools are **Node.js, NestJS, and TypeScript**, supported by relational databases, Redis, and modular application architecture.
 
-My experience includes **SaaS, e-commerce, and financial workflows**, with a focus on authentication, tenant isolation, subscriptions, and database performance.
+My experience spans **SaaS platforms, multi-tenant systems, and e-commerce**, including authentication, payment and subscription workflows, and real-time features. I care about how a system behaves across the complete workflow—from access permissions and database queries to error handling and recovery.
 
-I care about clear architecture, secure access controls, and testing complete workflows before shipping.
+## Engineering Focus
 
-## What I Build
+- **Multi-tenant SaaS:** Tenant-aware services, data isolation, and organization-level permissions.
+- **Authentication & authorization:** JWT authentication, refresh-token flows, and role-based access control.
+- **Payments & subscriptions:** Subscription lifecycles, webhook processing, transaction tracking, and failure handling.
+- **Commerce APIs:** Product catalogs, shopping carts, customer accounts, and order workflows.
+- **Performance & real-time features:** Redis caching, query optimization, WebSockets, and event-driven updates.
 
-- **SaaS backends:** Modular services, tenant-aware data access, and organization-level permissions.
-- **Secure APIs:** REST endpoints, JWT authentication, refresh tokens, and role-based access control.
-- **Payment workflows:** Subscriptions, webhook processing, transaction tracking, and failure handling.
-- **E-commerce services:** Product catalogs, carts, orders, and customer account workflows.
-- **Real-time features:** WebSocket communication, notifications, and event-driven updates.
-- **Performance improvements:** Redis caching, query optimization, and efficient data access.
+## Selected Work
 
-## Selected Experience
+### [7NetMarket ↗](https://7netmarket.com/)
 
-### [7NetMarket](https://7netmarket.com/) · E-commerce Platform
+**Backend Engineer · E-commerce Platform**
 
-**Backend Engineer**
+Contribute to the backend services supporting a live shopping platform.
 
-Contributing to a live e-commerce platform and the services behind its shopping workflows.
-
-- Build and maintain APIs for products, carts, and orders.
-- Implement authentication and authorization flows.
-- Optimize backend services for performance and reliability.
+- Build and maintain APIs for product, cart, and order workflows.
+- Implement authentication and authorization for protected operations.
+- Improve API performance and backend reliability.
 - Collaborate with teammates to deliver and maintain production features.
 
-### [Seed E-commerce Platform](https://seed-finance-web.vercel.app/en) · Private Organization Project
+### [Seed E-commerce Platform ↗](https://seed-finance-web.vercel.app/en)
 
-**Backend Engineer**
+**Backend Engineer · Private Organization Project**
 
-Developing backend services within a collaborative monorepo.
+Contribute to a NestJS backend within a shared monorepo.
 
-- Build modular services with NestJS.
-- Implement authentication and role-based permissions.
-- Develop APIs for product, cart, and order lifecycles.
+- Develop modular services for product, cart, and order lifecycles.
+- Implement authentication and role-based access control.
 - Work with PostgreSQL and Prisma for data modeling and persistence.
+- Collaborate across the codebase to integrate backend functionality.
 
-**Stack:** NestJS · TypeScript · PostgreSQL · Prisma · REST APIs
+**Technologies:** NestJS · TypeScript · PostgreSQL · Prisma · REST APIs
 
-> Some of my work lives in private repositories. The descriptions here summarize my contributions; public projects are available in my pinned repositories.
+> Some professional contributions live in private repositories. These descriptions summarize my work without exposing proprietary code.
 
-## Tech Stack
+## Technical Toolkit
 
-| Area | Technologies |
+| Focus | Technologies |
 | --- | --- |
-| Backend | Node.js, NestJS, Express, TypeScript, PHP, Laravel |
-| Databases & Data Access | PostgreSQL, MongoDB, MySQL, Prisma |
-| Caching & Real-Time | Redis, WebSockets |
+| Backend | Node.js, NestJS, Express, TypeScript |
+| PHP ecosystem | PHP, Laravel |
+| Databases | PostgreSQL, MongoDB, MySQL |
+| Data & communication | Prisma, Redis, REST APIs, WebSockets |
 | Frontend | React, Next.js, Inertia.js, Tailwind CSS |
-| Development Tools | Docker, Git, GitHub, Postman |
+| Development tools | Docker, Git, GitHub, Postman |
 
-## How I Work
+## Engineering Approach
 
-- Organize code around clear responsibilities and business workflows.
-- Treat authentication, authorization, and tenant isolation as core requirements.
-- Validate inputs and handle errors consistently.
-- Consider retries, duplicate requests, and failure recovery in payment flows.
-- Test end-to-end behavior and document changes for easier collaboration.
+I organize services around clear responsibilities and business workflows. Authentication, authorization, validation, and consistent error handling are part of the implementation from the start.
 
-## Currently Building
+For payment-related work, I consider duplicate requests, retries, and recovery paths. Before submitting changes, I test complete workflows and document the context teammates need to review and maintain them.
+
+## On My Workbench
 
 ### Wide School Management System
 
-Developing a platform for educational institutions, with planned modules for:
+**In development** · Laravel / Inertia.js / MySQL / Tailwind CSS
 
-- Student registration and lifecycle management
-- Learning and digital resource management
-- School fees and payment tracking
-- Examinations, marks, and grading
+Building a platform for educational institutions. Planned modules cover student lifecycle management, learning workflows, school fees, examinations, grading, and digital resources.
 
-**Stack:** Laravel · Inertia.js · MySQL · Tailwind CSS
+The goal is to bring connected school operations into one manageable platform.
 
-## GitHub Activity
+---
 
-<div align="center">
+## Have a Backend Challenge?
 
-<img src="https://github-readme-stats.vercel.app/api?username=fufex3934&show_icons=true&theme=github_dark&hide_border=true" alt="Fufa's public GitHub statistics" />
+I'm available to help build APIs, extend SaaS functionality, integrate payment workflows, and resolve backend issues.
 
-</div>
-
-## Let's Work Together
-
-Need help building an API, extending a SaaS backend, integrating payments, or fixing a backend issue?
-
-I'm open to **remote opportunities, contract work, and freelance projects**.
-
-**[Email me](mailto:fufawakgari174@gmail.com)** · **[Connect on LinkedIn](https://linkedin.com/in/fufa-wakgari-85b412228)** · **[Explore my portfolio](https://fufawakgari.vercel.app)**
+**[Discuss a project](mailto:fufawakgari174@gmail.com)** · **[Explore my portfolio](https://fufawakgari.vercel.app)** · **[Connect on LinkedIn](https://linkedin.com/in/fufa-wakgari-85b412228)**
